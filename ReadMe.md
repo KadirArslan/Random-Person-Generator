@@ -11,6 +11,4 @@
 ###### Bir txt dosyasında verilen degerlerin dogruluk kontrolu yapılır.
 
 * Kullanilan Metodlar
-
-![metodlar](C:\Users\kadoa\OneDrive\Masaüstü\metodlar.png)
-![metodlar](C:\Users\kadoa\OneDrive\Masaüstü\metodlarr.png)
+![metodlar](https://i.hizliresim.com/Ygzd5a.png)](https://hizliresim.com/Ygzd5a)
