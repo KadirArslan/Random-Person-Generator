@@ -11,4 +11,5 @@
 ###### Bir txt dosyasında verilen degerlerin dogruluk kontrolu yapılır.
 
 * Kullanilan Metodlar
-![metodlar](https://i.hizliresim.com/Ygzd5a.png)](https://hizliresim.com/Ygzd5a)
+![metodlar](https://i.hizliresim.com/Ygzd5a.png)
+![metodlar] (https://hizliresim.com/Ygzd5a)
