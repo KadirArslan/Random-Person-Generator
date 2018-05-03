@@ -10,9 +10,7 @@
 ###### Kutuphane ve Test projesi icerir.
 ###### Bir txt dosyasında verilen degerlerin dogruluk kontrolu yapılır.
 
-*Kullanilan Metodlar
+* Kullanilan Metodlar
 
-<p align="center">
-  <img src="C:\Users\kadoa\OneDrive\Masaüstü\metodlar.png" />
-  <img src="C:\Users\kadoa\OneDrive\Masaüstü\metodlarr.png" />
-</p>
+![metodlar](C:\Users\kadoa\OneDrive\Masaüstü\metodlar.png)
+![metodlar](C:\Users\kadoa\OneDrive\Masaüstü\metodlarr.png)
