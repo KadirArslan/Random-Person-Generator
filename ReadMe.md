@@ -9,7 +9,3 @@
 ###### Rastgele üretilen T.C. Kimlik, Telefon ve IMEI numarası standartlara uygundur.
 ###### Kutuphane ve Test projesi icerir.
 ###### Bir txt dosyasında verilen degerlerin dogruluk kontrolu yapılır.
-
-* Kullanilan Metodlar
-
-![metodlar](https://hizliresim.com/Lb9vYJ)
