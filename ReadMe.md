@@ -5,7 +5,14 @@
 * Kadir Arslan @kadars_
 * Semih Demirci @smh67dmrc
 
-###### Bu proje T.C. Kimlik ve IMEI algoritması kullanılarak rastgele degerler ile kisi uretir.
-###### Nesne Yonelimli Yapi kullanilmistir.
+###### Bu projede OOP yaklaşımı kullanilmistir. 
+###### Rastgele üretilen T.C. Kimlik, Telefon ve IMEI numarası standartlara uygundur.
 ###### Kutuphane ve Test projesi icerir.
-###### Uretilen Kisilerin ozellikleri Isim Soyisim, Yas, T.C. Kimlik No, Telefon No, IMEI numarasidir. 
+###### Bir txt dosyasında verilen degerlerin dogruluk kontrolu yapılır.
+
+*Kullanilan Metodlar
+
+<p align="center">
+  <img src="C:\Users\kadoa\OneDrive\Masaüstü\metodlar.png" />
+  <img src="C:\Users\kadoa\OneDrive\Masaüstü\metodlarr.png" />
+</p>
