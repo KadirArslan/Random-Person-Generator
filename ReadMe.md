@@ -1,10 +1,5 @@
 # Rastgele Kisi Ureten Java Sinifi ve Test Projesi
 
-#### Authors 
-
-* Kadir Arslan @kadars_
-* Semih Demirci @smh67dmrc
-
 ###### Bu projede OOP yaklaşımı kullanilmistir. 
 ###### Rastgele üretilen T.C. Kimlik, Telefon ve IMEI numarası standartlara uygundur.
 ###### Kutuphane ve Test projesi icerir.
